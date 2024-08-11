@@ -52,7 +52,7 @@ site:
   template: article-theme
   actions:
     - title: poster
-      url: abstract/presentation/poster_SERDP2022.png
+      url: presentation/poster_SERDP2022.pdf
       static: true
     # - title: slides
     #   url: presentation/SLIDES-NAME.pdf

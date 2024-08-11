@@ -5,4 +5,4 @@ abstract:
 
 ---
 
-![alvis-2022-eposter](poster_SERDP2022.png)
+![alvis-2022-eposter](presentation/poster_SERDP2022.png)
