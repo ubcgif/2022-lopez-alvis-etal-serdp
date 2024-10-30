@@ -1,6 +1,6 @@
 version: 1
 project:
-  id: ubcgif-2022-alvis-etal-serdp
+  id: ubcgif-2022-lopez-alvis-etal-serdp
   title: Machine learning methods for the classification of UXO from electromagnetic data in marine setting
   description: Talk presented at SERDP 2022
   authors:
