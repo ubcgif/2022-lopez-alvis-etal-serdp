@@ -27,7 +27,7 @@ project:
       email: lpsong@eoas.ubc.ca
       # orcid: ORCID
       affiliation: ubc
-  # banner: banner.png
+  banner: banner.png
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
